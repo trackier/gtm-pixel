@@ -1,5 +1,5 @@
 homepage: "https://trackier.com/"
 documentation: "https://github.com/trackier/gtm-pixel"
 versions:
-  - sha: <to be added after PR merge>
+  - sha: da85388319025898050dc123750200b50de66ee2
     changeNotes: Initial release.
