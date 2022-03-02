@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Trackier GTM Pixel",
+  "categories": ["ADVERTISING", "AFFILIATE_MARKETING", "ATTRIBUTION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
